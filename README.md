@@ -1,2 +1,2 @@
 # Numerical-Methods-Year3-2
-KU - Numerical Method Coding Assignment
+KU - Numerical Methods Coding Assignment
